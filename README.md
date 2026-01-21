@@ -1,34 +1,33 @@
-<!-- Banner -->
+<!-- Aesthetic Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=230&text=Chandra%20Sekhar&fontSize=55&fontAlignY=40&color=gradient" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=180&text=Hemanth%20Sai&fontSize=48&fontAlignY=55&color=0:0f2027,50:203a43,100:2c5364" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=<<YOUR_GITHUB_USERNAME>>&label=Profile%20Views&color=0e75b6&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=nagisheshero11&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
-<h3 align="center">Innovator 🚀</h3>
+<h3 align="center">Developer 👨‍💻</h3>
 
 ---
 
-## 🚀 About Me
+## 👋 About Me
 
-🎓 B.Tech student from **KL University**  
-💡 Entrepreneur & Founder of **InnovationLink**  
-🧠 Passionate about building **scalable real-world systems**
+🎓 Student who enjoys creating **clean and responsive webpages**  
+🎨 Passionate about **art & music**  
+🏎️ Follows **Formula 1** (yes, strategy matters 😌)  
+🎾 Loves **tennis**  
+🔗 Currently learning **Blockchain & Web3**
 
-- 🔹 Founder: **InnovationLink** – Startup ecosystem platform  
-- 🔹 Building: **Online Banking System (Full-Stack)**  
-- 🔹 Working on: **InnovationLink Platform**  
-- 🔹 Learning: **Advanced MongoDB, AI/ML**  
-- 🔹 Interests: **Full-Stack, Entrepreneurship, DevOps**
+> I enjoy turning ideas into simple, functional, and aesthetic web experiences.
 
 ---
 
-## 🏆 Highlights
+## 🏆 Highlights (Totally Serious)
 
-- 🥇 **Founder of InnovationLink** – Bridging startups and investors  
-- 🏗️ **Full Stack Architect** – Microservices & Event-Driven Systems  
+- 🐛 Debugged for 3 hours… it was a missing semicolon  
+- ☕ Coffee → Code → Error → Google → Fix → Repeat  
+- 🧠 Learning blockchain so future-me can thank present-me  
 
 ---
 
@@ -36,22 +35,22 @@
 
 ### 🎨 Frontend
 <p>
-  <img src="https://skillicons.dev/icons?i=react,js,html,css,bootstrap" />
-</p>
-
-### 🧠 Languages
-<p>
-  <img src="https://skillicons.dev/icons?i=java,python,c" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,angular" />
 </p>
 
 ### ⚙️ Backend
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,spring" />
+  <img src="https://skillicons.dev/icons?i=spring,nodejs,express" />
 </p>
 
-### 🗄️ Database
+### 🧠 Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+  <img src="https://skillicons.dev/icons?i=java,c,cpp,python" />
+</p>
+
+### 🗄️ Databases
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres" />
 </p>
 
 ### ☁️ DevOps
@@ -68,56 +67,43 @@
 
 ## 📌 Featured Projects
 
-### 🚀 InnovationLink
-A startup ecosystem platform connecting entrepreneurs, investors, and mentors.
+### 🏦 BANKIFY – Online Banking System
+🔗 https://github.com/nagisheshero11/Online_Banking_System
 
-- 👤 Role: Founder & Lead Developer  
-- 🛠️ Stack: React, Node.js, Spring Boot  
+A full-stack online banking web application built with **React** and **Spring Boot**.
 
----
-
-### 🏦 Banking System
-A secure and scalable banking application.
-
-- 🔑 Features: JWT Auth, Auto-Payments, Real-Time Analytics  
-- ⚙️ Tech: Spring Boot, Kafka, Microservices  
+- Secure authentication  
+- Account management  
+- Money transfers  
+- Transaction history tracking  
 
 ---
 
-### 🎵 Music Streaming Platform
-A full-stack media streaming application.
+### 🤖 CODEX – AI Code Checker
+🔗 https://github.com/nagisheshero11/codex
 
-- 🚧 Status: In Development  
+An intelligent code checker built using **Python, Streamlit & FastAPI**, integrating **3 AI agents**:
+
+- Code complexity analysis  
+- Deep code review  
+- Smart improvement suggestions using **Gemini API**
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=<<YOUR_GITHUB_USERNAME>>&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=nagisheshero11&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=<<YOUR_GITHUB_USERNAME>>&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nagisheshero11&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=<<YOUR_GITHUB_USERNAME>>&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nagisheshero11&layout=compact&theme=tokyonight" />
 </p>
 
 ---
 
-## 🌐 Connect With Me
-
-<p align="center">
-  <a href="<<YOUR_WEBSITE>>"><img src="https://img.shields.io/badge/Website-000?style=for-the-badge&logo=Google-Chrome" /></a>
-  <a href="mailto:<<YOUR_EMAIL>>"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail" /></a>
-  <a href="<<YOUR_LINKEDIN>>"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin" /></a>
-  <a href="<<YOUR_TWITTER>>"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter" /></a>
-  <a href="<<YOUR_INSTAGRAM>>"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram" /></a>
-</p>
-
----
-
-⭐ *“Innovation distinguishes between a leader and a follower.”*  
-👉 **Star this repo if you like my profile!**
+⭐ *“Write code. Break things. Learn. Repeat.”*

@@ -13,10 +13,10 @@
 
 ```js
 const hemanthSai = {
-  role: "Web Developer",
+  role: "Developer",
   location: "India 🇮🇳",
   education: "Student",
-  focus: "Building clean & responsive web applications",
+  focus: "Being Alive, Doing cool stuff",
   
   interests: [
     "Web Development",
@@ -29,9 +29,11 @@ const hemanthSai = {
   currentlyLearning: [
     "Blockchain",
     "Web3",
-    "Backend Architecture"
+    "Backend Architecture",
+    "Web Development",
+    "Problem Solving"
   ],
 
   funFact: "I fix bugs faster after listening to music 🎶",
-  motto: "Build. Break. Learn. Repeat. 🚀"
+  motto: "Being Alive"
 };

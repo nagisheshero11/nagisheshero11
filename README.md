@@ -1,6 +1,6 @@
-<h2 align="center">Hi, I'm Hemanth Sai 👋</h2>
+<h2 align="center">Hi, I'm Hemanth Sai 👋 And I am Alive And Surviving </h2>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://komarev.com/ghpvc/?username=nagisheshero11&label=Profile%20Views&color=0e75b6&style=flat" />
   <img src="https://img.shields.io/github/followers/nagisheshero11?label=Followers&style=flat" />
   <img src="https://img.shields.io/github/stars/nagisheshero11?label=Stars&style=flat" />
@@ -36,4 +36,4 @@ const hemanthSai = {
 
   funFact: "I fix bugs faster after listening to music 🎶",
   motto: "Being Alive"
-};
+}; -->
